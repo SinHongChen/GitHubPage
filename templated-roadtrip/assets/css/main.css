@@ -17,6 +17,7 @@
 		font-size: 100%;
 		font: inherit;
 		vertical-align: baseline;
+		
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -3338,7 +3339,7 @@
 
 		#header.alt {
 			top: 0;
-			background: #F64747;
+			background:black;
 		}
 
 		#header .logo {
@@ -3467,7 +3468,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: #f64242;
+		background:black;
 		box-shadow: none;
 		color: #ffffff;
 		height: 100%;
@@ -3521,7 +3522,7 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #fbb5b5;
+			color: white;
 			cursor: pointer;
 			display: block;
 			height: 3.25em;
